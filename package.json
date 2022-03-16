@@ -1,0 +1,22 @@
+{
+  "name": "learning-flask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModupeD/learning-flask.git"
+  },
+  "author": "ModupeD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ModupeD/learning-flask/issues"
+  },
+  "homepage": "https://github.com/ModupeD/learning-flask#readme",
+  "dependencies": {
+    "flask": "^0.2.10"
+  }
+}
